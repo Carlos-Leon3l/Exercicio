@@ -1,4 +1,4 @@
-const titulo = document.getElementById ('exibir1')
+const titulo = document.getElementById ('exibir')
 
 const nota1 = 8 
 const falta1 = 16
